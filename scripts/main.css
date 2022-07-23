@@ -1,0 +1,18 @@
+.click {
+  cursor: pointer;
+}
+
+.webkitbackground {
+  -webkit-text-stroke: 1px #dee2e6;
+  font-size: 10rem;
+  line-height: 1.2;
+}
+
+.service-icon {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 60px;
+}
